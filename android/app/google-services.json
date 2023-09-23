@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1019545081975",
+    "project_id": "price-cruncher",
+    "storage_bucket": "price-cruncher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019545081975:android:d7faf19815e16e7d6b4e72",
+        "android_client_info": {
+          "package_name": "com.metasense.priceCruncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019545081975-5j7c5riqb0af3140b11o92o0iegt87a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRmlOVIND3mFcXVWoKm62n71svLuR5jq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019545081975-5j7c5riqb0af3140b11o92o0iegt87a7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019545081975-nn0cee8kgmj01ha338dtmmu8ir6kujkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.priceCruncherNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019545081975:android:c22fe20f16fd46656b4e72",
+        "android_client_info": {
+          "package_name": "com.metasense.price_cruncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019545081975-5j7c5riqb0af3140b11o92o0iegt87a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRmlOVIND3mFcXVWoKm62n71svLuR5jq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019545081975-5j7c5riqb0af3140b11o92o0iegt87a7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019545081975-nn0cee8kgmj01ha338dtmmu8ir6kujkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.priceCruncherNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

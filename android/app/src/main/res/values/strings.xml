@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <string name="app_name">Price Cruncher</string>
+    <string name="facebook_app_id">3290811337876778</string>
+    <string name="fb_login_protocol_scheme">fb3290811337876778</string>
+    <string name="facebook_client_token">83d25bfb54c64d9c7b481c7ba9c9ac42</string>
+
+</resource>
